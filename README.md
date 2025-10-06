@@ -62,7 +62,7 @@ resume_analyzer/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/sunny-arya-codes/resume-analyzer.git
 cd resume_analyzer
 ````
 
